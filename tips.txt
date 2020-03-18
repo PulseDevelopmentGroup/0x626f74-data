@@ -1,0 +1,4 @@
+When in doubt, reboot
+Try JavaScript
+Make sure it's plugged in
+Fish > ZSH > Bash
