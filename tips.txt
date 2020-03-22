@@ -3,3 +3,4 @@ Try JavaScript
 Make sure it's plugged in
 Fish > ZSH > Bash
 Something's bound to break
+If you're stuck on something for a while, take a break
