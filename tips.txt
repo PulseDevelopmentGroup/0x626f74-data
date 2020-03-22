@@ -3,4 +3,5 @@ Try JavaScript
 Make sure it's plugged in
 Fish > ZSH > Bash
 Something's bound to break
+If you're stuck on something for a while, take a break
 you can use `less` in a similar way to cat, but with the added benefit of being able to view one page at a time
