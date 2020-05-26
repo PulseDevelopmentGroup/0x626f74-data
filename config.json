@@ -1,0 +1,12 @@
+{
+  "simpleCommands": {
+    "doubt": "https://tenor.com/view/doubt-la-noire-cole-phelps-gif-13372170",
+    "corn": "https://i.redd.it/3b08i3urupd31.jpg",
+    "github":"https://github.com/PulseDevelopmentGroup/0x626f74"
+  },
+  "permissions": {
+    "debug": [
+        "640290727032782848"
+    ]
+  }
+}
